@@ -8,13 +8,13 @@
 
 <div align="center" style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" width="70" height="70"/>
 </div>
 
 ##
