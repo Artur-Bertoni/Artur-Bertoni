@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently working on with Java Web
-- 🌱 I'm currently learning MongoDB 
+- 🌱 I'm currently learning MongoDB and Python
 
 ##
 
@@ -14,7 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" width="70" height="70"/>
 </div>
 
 ##
