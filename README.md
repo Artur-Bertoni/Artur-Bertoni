@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently working on with Java Web
-- 🌱 I'm currently learning MongoDB and Python
+- 🌱 I'm currently learning Python, PHP and Javascript
 
 ##
 
