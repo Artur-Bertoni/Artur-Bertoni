@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently working on with Java Web
-- 🌱 I'm currently learning Python, PHP, Javascript and HTML
+- 🌱 I'm currently learning Python, PHP, Javascript, HTML and CSS
 
 <h2 align="center"> 
   Most Used Tecnologies 
