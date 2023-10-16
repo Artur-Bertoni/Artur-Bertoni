@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently working on with Java Web
-- 🌱 I'm currently learning Python, PHP, JavaScript, HTML and CSS
+- 🌱 I'm currently learning Python, PHP, MySQL, JavaScript, HTML and CSS
 
 <h2 align="center"> 
   Most Used Tecnologies 
@@ -16,6 +16,9 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="70" height="70"/>
 </div>
 
 <h2 align="center"> 
