@@ -1,4 +1,4 @@
-### Hi there, I am Artur Bertoni 👋
+### Hello there. I'm Artur Bertoni 👋
 
 
 - 🔭 I'm currently working on with Java Web
