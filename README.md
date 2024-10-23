@@ -26,6 +26,10 @@
   <a href="https://github.com/Artur-Bertoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artur-Bertoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Bertoni&layout=compact&langs_count=15&theme=dark"/>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArturBertoni"/>
 </div>
 
