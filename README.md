@@ -28,7 +28,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Bertoni&layout=compact&langs_count=15&theme=dark"/>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArturBertoni"/>
 </div>
