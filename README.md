@@ -15,8 +15,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="70" height="70"/>
 </div>
 
