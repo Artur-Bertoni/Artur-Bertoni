@@ -1,8 +1,5 @@
 ### Hello there. I'm Artur Bertoni 👋
 
-
-- 🔭 I'm currently working on with Java Web
-
 <h2 align="center"> 
   Most Used Tecnologies 
 </h2>
